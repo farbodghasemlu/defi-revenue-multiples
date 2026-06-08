@@ -1,0 +1,25 @@
+{
+  "title": "DeFi Protocol Revenue Multiples and Token Returns: Dataset and Replication Code",
+  "upload_type": "dataset",
+  "description": "Dataset and fully reproducible code accompanying the working paper 'Does Revenue Back Valuation? Protocol Revenue Multiples and the Cross-Section of Token Returns in Decentralized Finance.' Includes data-collection scripts built on the free DefiLlama and CoinGecko APIs (no paid keys), the constructed cross-sectional and monthly-panel datasets, and an analysis script that regenerates every figure and statistic in the paper. The study tests whether protocol revenue multiples explain token valuations and predict the cross-section of forward returns; the return sample is formed circa June 2025 with a twelve-month forward window.",
+  "creators": [
+    {
+      "name": "Ghasemlu, Farbod",
+      "orcid": "0009-0009-2303-5672"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "tokenomics",
+    "cryptocurrency",
+    "decentralized finance",
+    "DeFi",
+    "protocol revenue",
+    "valuation multiples",
+    "cross-section of returns",
+    "value investing",
+    "Fama-MacBeth",
+    "reproducible research"
+  ]
+}
