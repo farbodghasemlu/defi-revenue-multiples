@@ -1,5 +1,7 @@
 # Replication Package: *Does Revenue Back Valuation?*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20600322.svg)](https://doi.org/10.5281/zenodo.20600322)
+
 **Paper:** Does Revenue Back Valuation? Protocol Revenue Multiples and the Cross-Section of Token Returns in Decentralized Finance
 **Author:** Farbod Ghasemlu (Independent Researcher) — ORCID [0009-0009-2303-5672](https://orcid.org/0009-0009-2303-5672)
 **Version:** 1.0 (June 2026)
@@ -69,7 +71,15 @@ Writes fresh `output/` files. The script caches every API response in `./cache/`
 
 ## How to cite
 
-> Ghasemlu, F. (2026). *Does Revenue Back Valuation? Protocol Revenue Multiples and the Cross-Section of Token Returns in Decentralized Finance.* Working paper. Replication package, Zenodo. DOI: 10.5281/zenodo.XXXXXXXX
+Paper:
+Ghasemlu, F. (2026). Does Revenue Back Valuation? Protocol Revenue Multiples
+and the Cross-Section of Token Returns in Decentralized Finance. SSRN Working
+Paper (June 8, 2026). https://ssrn.com/abstract=6901559
+
+Dataset and code:
+Ghasemlu, F. (2026). DeFi Protocol Revenue Multiples and Token Returns:
+Dataset and Replication Code [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.20600322
 
 ## License
 
